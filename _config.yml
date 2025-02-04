@@ -1,6 +1,4 @@
 title: Ali El Gohary
 theme: jekyll-theme-hacker
 
-header_pages:
-  - index.md
-  - projects.md
+header_pages: []
