@@ -1,8 +1,11 @@
+---
+layout: home
+title: "Data Scientist"
+permalink: /
+---
 
-# Data Scientist
-
-# Education
-Software Engineering,         MEng
+## Education
+Software Engineering, MEng
 
 ### Work Experience
 Data Scientist @ Intel Corporation
