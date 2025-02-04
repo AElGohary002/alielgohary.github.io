@@ -1,7 +1,7 @@
 # Data Scientist
 
 ### Education
-Software Engineering, MEng
+Software Engineering,         MEng
 
 ### Work Experience
 Data Scientist @ Intel Corporation
