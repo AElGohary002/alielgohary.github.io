@@ -4,8 +4,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-include-cache
 
-# Navbar Links
-nav:
+nav-headers:
   - title: "Home"
     url: /
   - title: "Projects"
