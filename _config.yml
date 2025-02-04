@@ -1,2 +1,17 @@
-title: Ali El Gohary
-theme: jekyll-theme-minimal
+title: "Ali El Gohary"
+description: "Data Scientist & Software Engineer Portfolio"
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
+# Navbar Links
+nav:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+
