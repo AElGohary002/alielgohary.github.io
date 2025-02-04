@@ -1,9 +1,6 @@
 title: Ali El Gohary
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
 
-sidebar:
-  - label: Section One
-    children:
-      - document-one
-      - document-two
-      - document-three
+header_pages:
+  - index.md
+  - projects.md
