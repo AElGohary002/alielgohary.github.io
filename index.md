@@ -1,21 +1,37 @@
 ---
 layout: home
-title: "Data Scientist"
+title: "Ali El Gohary"
 permalink: /
 ---
 
-## Education
-Software Engineering, MEng
+<div style="text-align: center; margin-bottom: 40px;">
+  <h1>Ali El Gohary</h1>
+  <h3>Data Scientist & Software Engineer</h3>
+</div>
 
-### Work Experience
-Data Scientist @ Intel Corporation
-- Example
+---
 
-# My Projects
+## Education  
+**MEng Software Engineering**  
 
-## Offensive Language Classifier
-**Description:** Description  
-**Technologies:** Python, Pandas, Scikit-learn, Tensorflow  
-[GitHub Repo](https://github.com/AElGohary002/TweetClassifier)
+---
 
-## Project 2
+## Work Experience  
+**Data Scientist @ Intel Corporation**  
+- Example bullet point  
+
+---
+
+# My Projects  
+
+## Offensive Language Classifier  
+**Description:** A classifier to detect offensive language in text.  
+**Technologies:** Python, Pandas, Scikit-learn, TensorFlow  
+[GitHub Repo](https://github.com/AElGohary002/TweetClassifier)  
+
+## Project 2  
+**Description:** Description here  
+**Technologies:** Python, Django, SQL  
+[GitHub Repo](#)  
+
+---

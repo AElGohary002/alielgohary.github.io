@@ -1,8 +1,26 @@
 title: "Ali El Gohary"
 description: "Data Scientist & Software Engineer Portfolio"
 remote_theme: "mmistakes/minimal-mistakes"
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "About"
+    url: /about/
+
 plugins:
   - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
 
+author:
+  name: "Ali El Gohary"
+  email: "your-email@example.com"
+  github: AElGohary002
+  linkedin: your-linkedin-url
 
 
