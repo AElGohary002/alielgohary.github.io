@@ -29,8 +29,8 @@ permalink: /
 [GitHub Repo](https://github.com/AElGohary002/TweetClassifier)  
 
 ## Project 2  
-**Description:** Description here  
-**Technologies:** Python, Django, SQL  
-[GitHub Repo](#)  
+**Description:** A simple weather app I worked on while I was starting out!
+**Technologies:** Python, Django, SQL
+[GitHub Repo](https://github.com/AElGohary002/weatherapp)  
 
 ---
